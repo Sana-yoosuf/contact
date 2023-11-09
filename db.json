@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "tuttu",
+      "email": "tuttu@gmail.com",
+      "phone": "8769546762",
+      "id": 1699461092486,
+      "fav": true
+    },
+    {
+      "name": "kunjan",
+      "email": "kunjan@gmail.com",
+      "phone": "3452675849",
+      "id": 1699461859335,
+      "fav": false
+    }
+  ]
+}
